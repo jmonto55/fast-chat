@@ -106,7 +106,7 @@ git clone https://github.com/jmonto55/fast-chat.git
 
 To install this project:
 ```
-cd Stock-Viewer
+cd fast-chat
 code .
 npm install
 ```
@@ -136,6 +136,7 @@ npm test
 👤 **Jose Montoya**
 
 - GitHub: [@jmonto55](https://github.com/jmonto55)
+- Linkedin: [@jmontodev](https://www.linkedin.com/in/jmontodev/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
